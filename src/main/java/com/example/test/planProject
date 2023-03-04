@@ -1,0 +1,13 @@
+Plan:-
+
+1- Check Api ( Get - Post  ) By Service and Controller.
+
+2- Create Mapper.
+
+3- Create Dto.
+
+4- Use Mapper and Dto in Controller.
+
+5- Use DtoToEntity In Services.
+
+6- CRUD By Mapping

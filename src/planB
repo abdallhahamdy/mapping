@@ -1,0 +1,29 @@
+1- Declare model.
+
+2- Create Dto.
+
+3- Create Mapper.
+	. Create Interface.
+	. Create ImpI.
+	. Delete ImpI.
+	. Maven in right screen.
+	. In Lifecycle folder click compile.
+
+4- Add @Id in EmployeeDto & properties id.
+
+5- Change name to employeeName and click compile in maven.
+
+6- Delete @Mapping in dtoToEntity 15: 46.
+
+7- Add @InheritInverseConfiguration
+
+8- 24 : 53
+
+9- choose confused Dto in Repo Or Service.
+
+10- he in @post convert from dto to entity.
+
+	. function return EmployeeDto
+
+
+

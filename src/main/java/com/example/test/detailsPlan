@@ -1,0 +1,8 @@
+1- check entity connect data base.
+	. Don't need @Column here.
+	. little property
+	. @Setter @Getter
+	. Add Service Layer
+	. Get have to add '' inside @Get
+	. Watch Shahen map Struct Eclipse
+	. Watch Techno Town Techie
